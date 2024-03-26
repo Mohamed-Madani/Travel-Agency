@@ -1,0 +1,30 @@
+@font-face {
+    font-family: poppins;
+    src: url(./Poppins-Regular.ttf);
+}
+
+.header{
+    height: 100px;
+    position: fixed;
+    display: flex;
+    padding: 20px 100px;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav{
+    justify-content: right;
+}
+.nav-link{
+    position: relative;
+    color: black;
+    font-family: poppins;
+    margin-left: 20px;
+}
+
+.logo{
+    width: 7%;
+}
+ #heroe{
+    margin: 0;
+ }
+
